@@ -13,34 +13,45 @@
       "element": "water"
     },
     {
-      "id": "9dee9836-6a94-4e25-9a25-54cd6107b632",
-      "name": "jonh",
-      "description": "e4t",
+      "id": "f5d3de69-4424-45a0-aec5-10941931bb70",
+      "name": "http://food/",
+      "description": "l;j;lj;j",
       "element": "fire"
+    },
+    {
+      "id": "9452eb91-5abf-42f6-b565-18c8bbd7476e",
+      "name": "e45h",
+      "description": "m,mb,b",
+      "element": "wind"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
